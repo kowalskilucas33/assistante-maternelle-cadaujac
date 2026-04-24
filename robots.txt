@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assistante-maternelle-cadaujac.fr/sitemap.xml
